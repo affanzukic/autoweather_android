@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoWeather</string>
+    <string name="copyright">Powered by OpenWeatherMap API</string>
+    <string name="cityInput">Please enter the city name</string>
+</resources>
